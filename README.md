@@ -1,7 +1,7 @@
 # HackerNews
 Project developed during the IOS App Development course from Angela Yu. The main goal of this project is show for all users the latest news in the I.T World
 
-<video src="#" width="100%" controls></video>
+<video src="https://github.com/LucasMeloSena/HackerNews/assets/93053816/d61b0046-b54a-4045-b653-646285e4d969" width="100%" controls></video>
 
 ## 💻 Technologies used
 * [Swift](https://developer.apple.com/documentation/swift)
