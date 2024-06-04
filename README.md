@@ -3,9 +3,6 @@ Project developed during the IOS App Development course from Angela Yu. The main
 
 <video src="#" width="100%" controls></video>
 
-## 🔨 Project functionality
-The application was developed with the main purpose of being a to-do list. It allows users to view a list of registered tasks, add new tasks, and delete tasks as needed. Additionally, the project includes a location map to put into practice the concepts learned about MapKit.
-
 ## 💻 Technologies used
 * [Swift](https://developer.apple.com/documentation/swift)
 * [SwiftUI](https://developer.apple.com/documentation/swiftui/)
